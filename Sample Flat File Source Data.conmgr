@@ -11,7 +11,7 @@
       DTS:RowDelimiter=""
       DTS:TextQualifier="_x003C_none_x003E_"
       DTS:CodePage="1252"
-      DTS:ConnectionString="C:\Users\oscar\Downloads\Creating a Simple ETL Package\Sample Data\SampleCurrencyData.txt">
+      DTS:ConnectionString="C:\Users\Oscar\Downloads\Creating a Simple ETL Package\Sample Data\SampleCurrencyData.txt">
       <DTS:FlatFileColumns>
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -19,7 +19,7 @@
           DTS:DataType="4"
           DTS:TextQualified="True"
           DTS:ObjectName="AverageRate"
-          DTS:DTSID="{A4B93CF1-66F3-479E-8013-2D76B7B83627}"
+          DTS:DTSID="{69850009-46F7-4CBE-8387-E1A9A63D7950}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -28,7 +28,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="CurrencyID"
-          DTS:DTSID="{32032EFB-F114-4BAD-A23C-8DCD032BC18B}"
+          DTS:DTSID="{581785FE-7019-4B80-8DEC-2FC6FA8DB703}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -36,7 +36,7 @@
           DTS:DataType="133"
           DTS:TextQualified="True"
           DTS:ObjectName="CurrencyDate"
-          DTS:DTSID="{8BB60CE6-E111-4FBE-8AA5-BB3E2816ABFB}"
+          DTS:DTSID="{1C837307-96A3-45C3-85EF-C24D2A7A30EE}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -44,7 +44,7 @@
           DTS:DataType="4"
           DTS:TextQualified="True"
           DTS:ObjectName="EndOfDayRate"
-          DTS:DTSID="{49098A21-0290-401B-ADBA-A931928EEA19}"
+          DTS:DTSID="{9042C2E6-12A8-458B-89A4-41F33E54D342}"
           DTS:CreationName="" />
       </DTS:FlatFileColumns>
     </DTS:ConnectionManager>
